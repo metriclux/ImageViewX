@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 120 120"
+   style="enable-background:new 0 0 120 120;"
+   xml:space="preserve"
+   sodipodi:docname="Q6A.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs5" /><sodipodi:namedview
+   id="namedview5"
+   pagecolor="#ffffff"
+   bordercolor="#999999"
+   borderopacity="1"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="6.725"
+   inkscape:cx="60"
+   inkscape:cy="60"
+   inkscape:window-width="1920"
+   inkscape:window-height="1009"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style1">
+	.st0{fill:#A5A5A5;}
+	.st1{fill:#231F20;}
+	.st2{fill:#FFFFFF;stroke:#231F20;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:#1D191A;}
+</style>
+<polygon
+   class="st0"
+   points="58.76,60.83 41.05,78.54 11.27,80.07 33.02,60 58.76,60 "
+   id="polygon1"
+   style="fill:#a5a5a5;fill-opacity:1" />
+<polygon
+   class="st0"
+   points="60.61,60.66 78.32,78.36 79.85,108.14 59.78,86.39 59.78,60.66 "
+   id="polygon2"
+   style="fill:#a5a5a5;fill-opacity:1" />
+<g
+   id="g2">
+	<path
+   class="st1"
+   d="M41.35,15.51L58.3,34.28l1.48,1.64l1.48-1.64l16.94-18.77l-1.29,25.25l-0.11,2.21l2.21-0.11l25.25-1.29   L85.5,58.52L83.86,60l1.64,1.48l18.77,16.94l-25.25-1.29l-2.21-0.11l0.11,2.21l1.29,25.25L61.26,85.72l-1.48-1.64l-1.48,1.64   l-16.94,18.77l1.29-25.25l0.11-2.21l-2.21,0.11l-25.25,1.29l18.77-16.94L35.7,60l-1.64-1.48L15.29,41.57l25.25,1.29l2.21,0.11   l-0.11-2.21L41.35,15.51 M80.49,10L59.78,32.94L39.07,10l1.58,30.87L9.78,39.29L32.72,60L9.78,80.71l30.87-1.58L39.07,110   l20.71-22.94L80.49,110l-1.58-30.87l30.87,1.58L86.84,60l22.94-20.71l-30.87,1.58L80.49,10L80.49,10z"
+   id="path2" />
+</g>
+<line
+   class="st2"
+   x1="59.78"
+   y1="32.94"
+   x2="59.78"
+   y2="87.06"
+   id="line2" />
+<line
+   class="st2"
+   x1="40.65"
+   y1="79.13"
+   x2="78.91"
+   y2="40.87"
+   id="line3" />
+<line
+   class="st2"
+   x1="32.72"
+   y1="60"
+   x2="86.84"
+   y2="60"
+   id="line4" />
+<line
+   class="st2"
+   x1="40.65"
+   y1="40.87"
+   x2="78.91"
+   y2="79.13"
+   id="line5" />
+</svg>

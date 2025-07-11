@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 120 120"
+   style="enable-background:new 0 0 120 120;"
+   xml:space="preserve"
+   sodipodi:docname="Q16D_T.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs4" /><sodipodi:namedview
+   id="namedview4"
+   pagecolor="#ffffff"
+   bordercolor="#999999"
+   borderopacity="1"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="6.725"
+   inkscape:cx="60"
+   inkscape:cy="60"
+   inkscape:window-width="1920"
+   inkscape:window-height="1009"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style1">
+	.st0{fill:#58595B;}
+	.st1{fill:#1D191A;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#A5A5A5;}
+</style>
+<g
+   id="g1">
+	<rect
+   x="11"
+   y="11"
+   class="st0"
+   width="98"
+   height="98"
+   id="rect1"
+   style="fill:#1f8fff;fill-opacity:1" />
+	<path
+   class="st1"
+   d="M108,12v96H12V12H108 M110,10H10v100h100V10L110,10z"
+   id="path1"
+   style="fill:#000000" />
+</g>
+<g
+   id="g2">
+	<rect
+   x="37.17"
+   y="37.17"
+   class="st2"
+   width="45.66"
+   height="45.66"
+   id="rect2" />
+	<path
+   class="st1"
+   d="M81.83,38.17v43.66H38.17V38.17H81.83 M83.83,36.17H36.17v47.66h47.66V36.17L83.83,36.17z"
+   id="path2"
+   style="fill:#000000" />
+</g>
+<g
+   id="g4"
+   transform="matrix(0.855,0,0,0.855,8.7,8.7)">
+	<path
+   class="st3"
+   d="m 60,63.312 c -1.827,0 -3.312,-1.485 -3.312,-3.312 0,-1.827 1.485,-3.312 3.312,-3.312 1.827,0 3.312,1.485 3.312,3.312 0,1.827 -1.485,3.312 -3.312,3.312 z"
+   id="path3"
+   style="fill:#000000;stroke-width:0.9" />
+	<path
+   class="st1"
+   d="m 60,57.588 c 1.332,0 2.412,1.08 2.412,2.412 0,1.332 -1.08,2.412 -2.412,2.412 -1.332,0 -2.412,-1.08 -2.412,-2.412 0,-1.332 1.08,-2.412 2.412,-2.412 m 0,-1.8 c -2.331,0 -4.212,1.89 -4.212,4.212 0,2.322 1.89,4.212 4.212,4.212 2.322,0 4.212,-1.89 4.212,-4.212 0,-2.322 -1.881,-4.212 -4.212,-4.212 z"
+   id="path4"
+   style="fill:#000000;stroke-width:0.9" />
+</g>
+</svg>
