@@ -7,7 +7,8 @@
 	.st1{fill:#1D191A;}
 	.st2{fill:none;stroke:#1D191A;stroke-width:3;stroke-miterlimit:10;}
 </style>
-<circle class="st2" cx="60" cy="60.17" r="50.17"/>
-<ellipse class="st2" cx="60" cy="55.62" rx="40.74" ry="15.86"/>
-<circle class="st1" cx="60" cy="55.62" r="5.68"/>
+<ellipse class="st2" cx="60" cy="55.45" rx="15.86" ry="40.74"/>
+<circle class="st2" cx="60" cy="60" r="50.17"/>
+<ellipse class="st2" cx="60" cy="55.45" rx="40.74" ry="15.86"/>
+<circle class="st1" cx="60" cy="55.45" r="5.68"/>
 </svg>
