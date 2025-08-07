@@ -1,89 +1,28 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   version="1.1"
-   id="Layer_1"
-   x="0px"
-   y="0px"
-   viewBox="0 0 120 120"
-   style="enable-background:new 0 0 120 120;"
-   xml:space="preserve"
-   sodipodi:docname="Q16A.svg"
-   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
-   id="defs4" /><sodipodi:namedview
-   id="namedview4"
-   pagecolor="#ffffff"
-   bordercolor="#999999"
-   borderopacity="1"
-   inkscape:showpageshadow="2"
-   inkscape:pageopacity="0"
-   inkscape:pagecheckerboard="0"
-   inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="6.725"
-   inkscape:cx="60"
-   inkscape:cy="60"
-   inkscape:window-width="1920"
-   inkscape:window-height="1009"
-   inkscape:window-x="-8"
-   inkscape:window-y="-8"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1" />
-<style
-   type="text/css"
-   id="style1">
-	.st0{fill:#58595B;}
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 120 120" style="enable-background:new 0 0 120 120;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
 	.st1{fill:#1D191A;}
-	.st2{fill:#FFFFFF;}
-	.st3{fill:#A5A5A5;}
+	.st2{fill:none;}
 </style>
-<g
-   id="g1">
-	<rect
-   x="11"
-   y="11"
-   class="st3"
-   width="98"
-   height="98"
-   id="rect1"
-   style="fill:#999999;fill-opacity:1" />
-	<path
-   class="st1"
-   d="M108,12v96H12V12H108 M110,10H10v100h100V10L110,10z"
-   id="path1"
-   style="fill:#000000" />
+<g>
+	<path class="st1" d="M39.95,71.74h6.59V52.77c0-0.74,0.02-1.51,0.07-2.32l-4.68,3.92c-0.2,0.17-0.39,0.28-0.6,0.34
+		c-0.2,0.06-0.4,0.09-0.6,0.09c-0.3,0-0.57-0.06-0.82-0.19c-0.25-0.13-0.43-0.27-0.55-0.44l-1.75-2.41l9.92-8.44h4.57v28.42h5.85
+		v4.16h-18V71.74z"/>
+	<path class="st1" d="M84.98,59.63c0,2.83-0.3,5.3-0.91,7.39c-0.61,2.09-1.45,3.82-2.52,5.19c-1.07,1.37-2.34,2.38-3.8,3.05
+		c-1.46,0.67-3.04,1-4.74,1c-1.7,0-3.27-0.33-4.71-1c-1.45-0.67-2.7-1.68-3.77-3.05c-1.07-1.36-1.9-3.09-2.5-5.19
+		c-0.6-2.09-0.9-4.56-0.9-7.39c0-2.85,0.3-5.32,0.9-7.4s1.43-3.81,2.5-5.17c1.06-1.37,2.32-2.38,3.77-3.05c1.45-0.67,3.02-1,4.71-1
+		c1.69,0,3.27,0.33,4.74,1s2.73,1.68,3.8,3.05c1.07,1.37,1.91,3.09,2.52,5.17C84.67,54.31,84.98,56.78,84.98,59.63z M79.24,59.63
+		c0-2.35-0.17-4.3-0.52-5.85c-0.35-1.54-0.81-2.78-1.38-3.69c-0.58-0.92-1.24-1.56-1.99-1.92c-0.75-0.37-1.53-0.55-2.34-0.55
+		c-0.79,0-1.56,0.18-2.31,0.55c-0.74,0.37-1.4,1.01-1.97,1.92c-0.57,0.92-1.02,2.15-1.36,3.69s-0.51,3.5-0.51,5.85
+		c0,2.36,0.17,4.31,0.51,5.85c0.34,1.55,0.79,2.78,1.36,3.69c0.57,0.92,1.23,1.56,1.97,1.92c0.74,0.37,1.51,0.55,2.31,0.55
+		c0.81,0,1.59-0.18,2.34-0.55c0.75-0.37,1.41-1.01,1.99-1.92c0.58-0.92,1.04-2.14,1.38-3.69C79.06,63.94,79.24,61.99,79.24,59.63z"
+		/>
 </g>
-<g
-   id="g2">
-	<rect
-   x="37.17"
-   y="37.17"
-   class="st2"
-   width="45.66"
-   height="45.66"
-   id="rect2" />
-	<path
-   class="st1"
-   d="M81.83,38.17v43.66H38.17V38.17H81.83 M83.83,36.17H36.17v47.66h47.66V36.17L83.83,36.17z"
-   id="path2"
-   style="fill:#000000" />
+<g>
+	<path class="st1" d="M107,13v94H13V13H107 M110,10H10v100h100V10L110,10z"/>
 </g>
-<g
-   id="g4"
-   transform="matrix(0.95,0,0,0.95,3,3)">
-	<path
-   class="st3"
-   d="m 60,63.312 c -1.827,0 -3.312,-1.485 -3.312,-3.312 0,-1.827 1.485,-3.312 3.312,-3.312 1.827,0 3.312,1.485 3.312,3.312 0,1.827 -1.485,3.312 -3.312,3.312 z"
-   id="path3"
-   style="fill:#000000;stroke-width:0.9" />
-	<path
-   class="st1"
-   d="m 60,57.8292 c 1.1988,0 2.1708,0.972 2.1708,2.1708 0,1.1988 -0.972,2.1708 -2.1708,2.1708 -1.1988,0 -2.1708,-0.972 -2.1708,-2.1708 0,-1.1988 0.972,-2.1708 2.1708,-2.1708 m 0,-1.62 c -2.0979,0 -3.7908,1.701 -3.7908,3.7908 0,2.0898 1.701,3.7908 3.7908,3.7908 2.0898,0 3.7908,-1.701 3.7908,-3.7908 0,-2.0898 -1.6929,-3.7908 -3.7908,-3.7908 z"
-   id="path4"
-   style="fill:#000000;stroke-width:0.81" />
-</g>
+<rect x="58.12" y="58.6" class="st2" width="2.65" height="0"/>
 </svg>

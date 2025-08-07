@@ -5,10 +5,11 @@
 <style type="text/css">
 	.st0{display:none;}
 	.st1{fill:#1D191A;}
-	.st2{fill:#FFFFFF;}
-	.st3{fill:none;stroke:#1D191A;stroke-miterlimit:10;}
-	.st4{fill:#A5A5A5;stroke:#1D191A;stroke-miterlimit:10;}
-	.st5{fill:#A5A5A5;}
+	.st2{fill:none;stroke:#1D191A;stroke-width:9;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#1D191A;stroke-width:3;stroke-miterlimit:10;}
+	.st4{fill:#A5A5A5;}
+	.st5{fill:none;stroke:#1D191A;stroke-width:0.8;stroke-miterlimit:10;}
+	.st6{fill:#FFFFFF;stroke:#1D191A;stroke-width:2;stroke-miterlimit:10;}
 </style>
 <g>
 	<path class="st1" d="M25.67,43.47c1.5,0,2.87,0.22,4.12,0.66c1.24,0.44,2.31,1.07,3.19,1.88c0.88,0.81,1.58,1.79,2.07,2.92

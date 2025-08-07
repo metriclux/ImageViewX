@@ -9,14 +9,14 @@
    viewBox="0 0 120 120"
    style="enable-background:new 0 0 120 120;"
    xml:space="preserve"
-   sodipodi:docname="Q12F.svg"
+   sodipodi:docname="Q18Cx.svg"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-   id="defs5" /><sodipodi:namedview
-   id="namedview5"
+   id="defs2" /><sodipodi:namedview
+   id="namedview2"
    pagecolor="#ffffff"
    bordercolor="#999999"
    borderopacity="1"
@@ -40,55 +40,31 @@
 	.st1{fill:#1D191A;}
 	.st2{fill:none;stroke:#1D191A;stroke-width:3;stroke-miterlimit:10;}
 </style>
-<g
-   id="g1">
-	<path
+
+<circle
+   class="st2"
+   cx="59.72"
+   cy="60.17"
+   r="50.17"
+   id="circle1" />
+<ellipse
+   class="st2"
+   cx="59.72"
+   cy="55.62"
+   rx="40.74"
+   ry="15.86"
+   id="ellipse2" />
+<circle
    class="st1"
-   d="M106.86,12.67v93.71H13.14V12.67H106.86 M109.86,9.67H10.14v99.71h99.71V9.67L109.86,9.67z"
-   id="path1" />
-</g>
+   cx="59.72"
+   cy="55.62"
+   r="5.68"
+   id="circle2" />
 <g
    id="g2">
-	<line
-   class="st2"
-   x1="108.46"
-   y1="11.06"
-   x2="11.54"
-   y2="107.99"
-   id="line1" />
+	<path
+   class="st1"
+   d="M59.72,101.48c0.96,0,1.75,0.79,1.75,1.75s-0.79,1.75-1.75,1.75s-1.75-0.79-1.75-1.75   S58.76,101.48,59.72,101.48 M59.72,99.98c-1.79,0-3.25,1.46-3.25,3.25s1.46,3.25,3.25,3.25c1.79,0,3.25-1.46,3.25-3.25   S61.51,99.98,59.72,99.98L59.72,99.98z"
+   id="path2" />
 </g>
-<line
-   class="st2"
-   x1="108.46"
-   y1="107.99"
-   x2="11.54"
-   y2="11.06"
-   id="line2" />
-<line
-   class="st2"
-   x1="107.96"
-   y1="59.38"
-   x2="11.82"
-   y2="59.38"
-   id="line3" />
-<line
-   class="st2"
-   x1="60.11"
-   y1="107.89"
-   x2="60.11"
-   y2="10.87"
-   id="line4" />
-<circle
-   class="st1"
-   cx="85.33"
-   cy="84.86"
-   r="7"
-   id="circle4" />
-<circle
-   class="st1"
-   cx="35"
-   cy="34.52"
-   r="7"
-   id="circle5" />
-
 </svg>

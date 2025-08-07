@@ -5,14 +5,17 @@
 <style type="text/css">
 	.st0{display:none;}
 	.st1{fill:#1D191A;}
-	.st2{fill:#231F20;}
-	.st3{fill:none;stroke:#1D191A;stroke-width:3;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#1D191A;stroke-width:3;stroke-miterlimit:10;}
 </style>
 <g>
-	<g>
-		<path class="st1" d="M71.61,43.64v2.41c0,0.72-0.08,1.3-0.24,1.74s-0.31,0.81-0.46,1.11L58.6,74.28
-			c-0.25,0.52-0.62,0.97-1.08,1.34c-0.47,0.37-1.1,0.55-1.89,0.55h-4.03l12.6-24.86c0.53-1.02,1.11-1.9,1.76-2.63H50.39
-			c-0.35,0-0.65-0.13-0.9-0.38c-0.26-0.25-0.38-0.55-0.38-0.9v-3.76H71.61z"/>
-	</g>
+	<path class="st1" d="M107,13.38v93.24H13.76V13.38H107 M110,10.38H10.76v99.24H110V10.38L110,10.38z"/>
 </g>
+<g>
+	<line class="st2" x1="12.14" y1="108.24" x2="108.61" y2="11.76"/>
+</g>
+<line class="st2" x1="12.14" y1="11.76" x2="108.61" y2="108.24"/>
+<line class="st2" x1="12.65" y1="60.14" x2="108.33" y2="60.14"/>
+<line class="st2" x1="60.27" y1="11.86" x2="60.27" y2="108.42"/>
+<circle class="st1" cx="60" cy="35" r="7"/>
+<circle class="st1" cx="60" cy="84.62" r="7"/>
 </svg>
